@@ -1,3 +1,5 @@
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 <h1 align="center">Hi 🫡, I'm Edgar</h1>
 
 <h3 align="center">Languages and Tools:</h3>
