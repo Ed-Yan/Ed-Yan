@@ -38,40 +38,47 @@ I'm Edgar, a developer passionate about building modern, scalable, and user-frie
 ### 💻 Frontend Development
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,angular,react,bootstrap,figma" />
+  <img src="https://skillicons.dev/icons?i=angular,react,js,ts,html,css,sass,bootstrap" />
 </div>
 
 ### ⚙️ Backend Development
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=php,nodejs,java,python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laminas/laminas-original.svg" width="48" height="48" alt="Laminas" />
+  <img src="https://skillicons.dev/icons?i=php,nodejs,python" />
 </div>
 
 ### 🗄️ Databases
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-</div>
-
-### 🔧 DevOps & Development Tools
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,npm" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/couchbase/couchbase-original.svg" width="48" height="48" alt="Couchbase" />
 </div>
 
 ---
 
-<!-- ==================== GITHUB STATS ==================== -->
+<!-- ==================== METHODOLOGIES ==================== -->
 
-## 📊 GitHub Statistics
+## 📋 Methodologies & Practices
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ed-Yan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ed-Yan&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white" />
+<img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/Kanban-0079BF?style=for-the-badge&logo=trello&logoColor=white" />
+<img src="https://img.shields.io/badge/Code_Review-4CAF50?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
+
+- Agile Software Development
+- Scrum Framework
+- Sprint Planning & Sprint Reviews
+- Daily Stand-ups
+- Backlog Refinement
+- Kanban & Task Management
+- Team Collaboration
+- Code Reviews
+- Git Workflows
 
 ---
 
@@ -87,18 +94,6 @@ I'm Edgar, a developer passionate about building modern, scalable, and user-frie
 
 ---
 
-<!-- ==================== ACTIVITY ==================== -->
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ed-Yan&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
-</div>
-
----
-
 <!-- ==================== FOOTER ==================== -->
 
 <div align="center">
@@ -108,4 +103,3 @@ I'm Edgar, a developer passionate about building modern, scalable, and user-frie
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%" />
 
 </div>
-
